@@ -1,0 +1,19 @@
+P1:
+Directionals: WASD
+X: F
+Y: C
+A: Z
+B: X
+Q: L
+E: R
+
+P2:
+Directionals: LeftRightUpDown
+X: M
+Y: J
+A: N
+B: I
+L: K
+R: L
+
+Recommend setting both start buttons on both controllers to T and Y, if both are pressed at the same time, the game gets manually reset.

@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "LitSpaceRaceWGL_v11.0.data.unityweb",
+"asmCodeUrl": "LitSpaceRaceWGL_v11.0.asm.code.unityweb",
+"asmMemoryUrl": "LitSpaceRaceWGL_v11.0.asm.memory.unityweb",
+"asmFrameworkUrl": "LitSpaceRaceWGL_v11.0.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

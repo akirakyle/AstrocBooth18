@@ -4,8 +4,10 @@ X: F
 Y: C
 A: Z
 B: X
-Q: L
-E: R
+L: Q
+R: E
+Select: C
+Start: T
 
 P2:
 Directionals: LeftRightUpDown
@@ -15,5 +17,7 @@ A: N
 B: I
 L: K
 R: L
+Select: O
+Start: Y
 
 Recommend setting both start buttons on both controllers to T and Y, if both are pressed at the same time, the game gets manually reset.

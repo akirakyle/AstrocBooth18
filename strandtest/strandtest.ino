@@ -5,7 +5,6 @@
 
 #include <SoftwareSerial.h>   // We need this even if we're not using a SoftwareSerial object
                               // Due to the way the Arduino IDE compiles
-#include <SerialCommand.h>
 
 
 #define PIN 5
@@ -41,8 +40,6 @@ uint32_t I = 50;
 uint32_t a = 50;
 uint32_t b = 30;
 
-SerialCommand SCmd;   // The demo SerialCommand object
-
 void setup() {
   // This is for Trinket 5V 16MHz, you can remove these three lines if you are not using a Trinket
   #if defined (__AVR_ATtiny85__)
@@ -52,7 +49,6 @@ void setup() {
 
   Serial.begin(9600);
   Serial.println("Ready");
-  SCmd.addDefaultHandler(unrecognized);  // Handler for command that isn't matched  (says "What?") 
 
   strip.begin(); // Initialize all pixels to 'off'
   strip2.begin();

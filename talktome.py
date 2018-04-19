@@ -26,3 +26,4 @@ while True:
         ser.write(b)
         #ser.write(check.encode())
         print (ser.readline().decode())
+//

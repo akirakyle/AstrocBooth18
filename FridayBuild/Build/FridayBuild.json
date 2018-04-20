@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "A Star Just Wants To Go Home",
+"dataUrl": "FridayBuild.data.unityweb",
+"asmCodeUrl": "FridayBuild.asm.code.unityweb",
+"asmMemoryUrl": "FridayBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "FridayBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
